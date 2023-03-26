@@ -2,7 +2,6 @@ var dir_64302e4ed8e680c5e7832e1b7ea09baa =
 [
     [ "Console", "dir_5d1450713377add98c1180fe0eb2f9ae.html", "dir_5d1450713377add98c1180fe0eb2f9ae" ],
     [ "Ninja.WebSockets", "dir_00db1776877a30bd47a3324e3b896815.html", "dir_00db1776877a30bd47a3324e3b896815" ],
-    [ "obj", "dir_87bdc2ec3fb2fe36f0442c7b9fa8c83c.html", "dir_87bdc2ec3fb2fe36f0442c7b9fa8c83c" ],
     [ "TinyJson", "dir_0385b7cc93c13096276fd0475bf94138.html", "dir_0385b7cc93c13096276fd0475bf94138" ],
     [ "Nakama/ApiClient.gen.cs", "_nakama_2_api_client_8gen_8cs.html", "_nakama_2_api_client_8gen_8cs" ],
     [ "ChannelJoinMessage.cs", "_channel_join_message_8cs.html", "_channel_join_message_8cs" ],
@@ -63,6 +62,7 @@ var dir_64302e4ed8e680c5e7832e1b7ea09baa =
     [ "PartyMemberRemove.cs", "_party_member_remove_8cs.html", null ],
     [ "PartyPresenceEvent.cs", "_party_presence_event_8cs.html", null ],
     [ "PartyPromote.cs", "_party_promote_8cs.html", null ],
+    [ "PresenceUtil.cs", "_presence_util_8cs.html", null ],
     [ "Nakama/PreserveAttribute.cs", "_nakama_2_preserve_attribute_8cs.html", null ],
     [ "Retry.cs", "_retry_8cs.html", "_retry_8cs" ],
     [ "RetryConfiguration.cs", "_retry_configuration_8cs.html", "_retry_configuration_8cs" ],
